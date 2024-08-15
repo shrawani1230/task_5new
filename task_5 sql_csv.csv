@@ -1,0 +1,28 @@
+item_no,item_name,dcode,quantity,unit_price,stock_date
+5004,Gel pen classic,101,200,22,2004
+5005,Eraser big,103,120,23,2003
+5006,Eraser small,101,103,25,2002
+5007,Markers pen,102,150,25,2002
+5008,Compasses,103,110,150,2003
+5009,Calculator,102,100,150,2006
+5010,Clipboard,101,120,100,2022
+5011,Palette,110,150,150,2023
+5012,Setsquare,101,130,150,2024
+5013,Chalks,105,120,50,2023
+5014,Cellow tape,120,180,20,2022
+5015,Stapler Kangaroo,101,140,150,2004
+5016,Stamp_pad,102,500,50,2001
+5017,Gum bottle,103,300,150,2003
+5018,Pencils ordinary netraj,101,200,80,2004
+5019,Plastic scale,102,600,20,2005
+5020,Box file,103,200,70,2006
+5021,Brown tape,106,100,40,5007
+5022,Double punch (kangaroo),104,150,250,2005
+5023,Paper clip,105,120,10,2006
+5024,Stapler pin,102,130,20,2008
+5025,Design Ruller,103,140,50,2009
+5026,Puzzle scale,105,102,40,2003
+5027,Wooden scale,102,120,60,2004
+5028,Envelope,101,150,10,2001
+5029,Highlighter,103,150,40,2022
+5030,sharpner classic,102,120,30,2023
